@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning advanced Python, machine learning frameworks, and data visualization (NumPy, Pandas, Matplotlib, and Seaborn).<br><br>🎯 Goals: Build AI-powered solutions, create a personal RAG system, and master data science for real-world impact.</p>
+<h2 align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning advanced Python, machine learning frameworks, and data visualization (NumPy, Pandas, Matplotlib, and Seaborn).<br><br>🎯 Goals: Build AI-powered solutions, create a personal RAG system, and master data science for real-world impact.</h2>
 
 ###
 

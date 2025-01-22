@@ -15,8 +15,6 @@
 
 ###
 
-<br clear="both">
-
 <h2 align="left">My name is Mayuresh Harihar and I'm a Data Scientist.</h2>
 
 ###

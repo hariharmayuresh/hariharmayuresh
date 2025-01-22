@@ -23,14 +23,9 @@
 
 <h3 align="left">✨ Creating bugs since 2020<br><br>📚 I'm currently learning advanced Python, machine learning frameworks, and data visualization (NumPy, Pandas, Matplotlib, and Seaborn).<br><br>🎯 Goals: Build AI-powered solutions, create a personal RAG system, and master data science for real-world impact.</h3>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
 
 <div align="left">
-  <h2 align="left">I code with</h2>
+  <h2 >I code with</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />

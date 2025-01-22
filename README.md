@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -15,7 +13,7 @@
 
 ###
 
-<h2 align="left">My name is Mayuresh Harihar and I'm a Data Scientist.</h2>
+<h1 align="left">My name is Mayuresh Harihar and I'm a Data Scientist.</h1>
 
 ###
 
